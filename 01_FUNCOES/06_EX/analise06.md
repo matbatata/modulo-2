@@ -35,3 +35,5 @@ def nome_da_funcao(parametro1, parametro2):
     comandos com parametro1 e parametro 2
     return resultado dos comandos
 ```
+
+Feito em colaboração com @lucasamtaylor
