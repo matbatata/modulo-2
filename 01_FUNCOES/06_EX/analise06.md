@@ -36,4 +36,5 @@ def nome_da_funcao(parametro1, parametro2):
     return resultado dos comandos
 ```
 
-Feito em colaboração com @lucasamtaylor
+Feito em colaboração com [@lucasamtaylor01](https://github.com/lucasamtaylor01)
+
