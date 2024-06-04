@@ -13,7 +13,7 @@ Indíce de massa corporal
 Temos dois termos-chave:
 
 - `def:` de definir a função;
-- `return:` retorna o que a função deve retornar
+- `return:` retorna valor para a `main()` 
 
 ## Estrutura para exemplo
 Vamos analisar a função `imc`:
