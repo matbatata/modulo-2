@@ -31,7 +31,7 @@ def imc(peso, altura):
 
 ## Maneira genérica
 ``` python
-def nome_da_funcao(parametro1, parametro 2):
+def nome_da_funcao(parametro1, parametro2):
     comandos com parametro1 e parametro 2
     retorno dos comandos
 ```
