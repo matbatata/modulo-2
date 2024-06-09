@@ -1,37 +1,35 @@
 def imprimir_mes(numero):
-    meses = {
-        1: "Janeiro",
-        2: "Fevereiro",
-        3: "Março",
-        4: "Abril",
-        5: "Maio",
-        6: "Junho",
-        7: "Julho",
-        8: "Agosto",
-        9: "Setembro",
-        10: "Outubro",
-        11: "Novembro",
-        12: "Dezembro"
-    }
-    
-    if numero < 1 or numero > 12:
-        print("Número inválido. Por favor, insira um número entre 1 e 12.")
+    if numero == 1:
+        print("Janeiro")
+    elif numero == 2:
+        print("Fevereiro")
+    elif numero == 3:
+        print("Março")
+    elif numero == 4:
+        print("Abril")
+    elif numero == 5:
+        print("Maio")
+    elif numero == 6:
+        print("Junho")
+    elif numero == 7:
+        print("Julho")
+    elif numero == 8:
+        print("Agosto")
+    elif numero == 9:
+        print("Setembro")
+    elif numero == 10:
+        print("Outubro")
+    elif numero == 11:
+        print("Novembro")
+    elif numero == 12:
+        print("Dezembro")
     else:
-        print(meses[numero])
+        print("Número inválido. Por favor, insira um número entre 1 e 12.")
 
-n = int(input("Digite um número de 1 a 12: "))
-imprimir_mes(n)
+def main():
+    n = int(input("Digite um número de 1 a 12: "))
+    imprimir_mes(n)
 
-"""
-PONTOS A MELHORAR:
+main()
 
-1. Chamar a funbção main(). 
-    Dica: Usar o 04_EX.py como exemplo
-    
-2. Eu não ensinei esse negócio de 1: "Janeiro", ..., 12: "Fevereiro"
-    Duas opções:
-
-    1) Quero que você escreva um .md explicando o que é e como funciona com as fontes que você usou para fazer isso...
-
-    2) Fazer do jeito que aprendemos em sala.
-"""
+#achei mais facil apagar e refazer pois avia muitas coisas que peguei na internet e nao faziam sentido
