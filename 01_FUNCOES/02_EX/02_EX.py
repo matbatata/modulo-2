@@ -32,4 +32,5 @@ def main():
 
 main()
 
-#achei mais facil apagar e refazer pois avia muitas coisas que peguei na internet e nao faziam sentido
+#achei mais facil apagar e refazer pois avia muitas coisas que peguei na internet e nao faziam sentido 
+# na verdade AINDA não faz sentido. Aprenderemos em breve. Parabéns.
