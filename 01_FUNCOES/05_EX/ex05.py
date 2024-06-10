@@ -6,3 +6,5 @@ def calcular_volume_esfera(raio):
 raio = float(input("Insira o raio da esfera (em metros): "))
 volume = calcular_volume_esfera(raio)
 print("O volume da esfera é:", volume)
+
+# falotu main(). De resto muito bom
