@@ -7,7 +7,7 @@ def calcular_media(nota1, nota2, nota3, letra):
         return "Tipo de média inválido."
 def main():
     notas = (7, 8, 9) # não aprendemos
-    tipo_media = "A"
+    tipo_media = "A" # vc poderia solicitar para o usuário
     media = calcular_media(*notas, tipo_media)
     print("A média do aluno é:", media)
 main()
