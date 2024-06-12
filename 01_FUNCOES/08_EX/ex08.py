@@ -10,5 +10,5 @@ def main():
             print(num, "não é um quadrado perfeito.") #ok
 main() 
 
-
+ 
 # crie um .md explicando esse código
