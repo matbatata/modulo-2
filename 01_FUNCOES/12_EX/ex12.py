@@ -11,3 +11,5 @@ def main():
     resultado = maior_fator_primo(numero)
     print("O maior fator primo de", numero, "é:", resultado)
 main()
+
+#explicar
