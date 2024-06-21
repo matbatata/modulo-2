@@ -11,12 +11,5 @@ def main():
     resultado = calcular_potencia(x, y)
     print("O resultado de", x, "elevado a", y, "é igual a", resultado)
 main()
-"""
-Você usou uma função recursiva. Eu não ensinei isso.
 
-Escolha como quer prosseguir:
-
-1) Escreva um .md explicando a função
-
-2) Faça de uma forma mais simples 
-"""
+#Explicar
