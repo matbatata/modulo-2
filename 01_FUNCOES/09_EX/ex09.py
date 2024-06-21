@@ -12,4 +12,4 @@ def main():
     print("A média do aluno é:", media)
 main()
 
-# crie um .md explicando este código
+#explicar
