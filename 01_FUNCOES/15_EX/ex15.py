@@ -7,3 +7,5 @@ def main():
     numero = int(input("Digite um número inteiro positivo: "))
     linhas_exclamacoes(numero)
 main()
+
+#explicar
