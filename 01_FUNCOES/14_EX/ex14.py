@@ -13,3 +13,5 @@ def main():
     numero = int(input("Digite um número inteiro positivo: "))
     print("O fatorial de", numero, "é:", fatorial(numero))
 main()
+
+#explicar
