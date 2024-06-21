@@ -7,3 +7,5 @@ def main():
     print(imc(peso, altura))
 
 main()
+
+#corrigido
