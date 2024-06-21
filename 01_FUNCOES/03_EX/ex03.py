@@ -8,4 +8,4 @@ def main():
     print("A temperatura em Celsius é:", temperatura_celsius)
 
 main()
-#corrigido pelo mat
+#corrigido 
