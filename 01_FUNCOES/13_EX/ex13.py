@@ -6,3 +6,5 @@ def main():
     resultado = calcular_somatorio(n)
     print("O somatório de 1 até", n, "é igual a", resultado)
 main()
+
+#explicar
