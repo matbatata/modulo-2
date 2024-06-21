@@ -10,4 +10,4 @@ def main():
     print("O total de segundos é:", total_segundos)
 main()
 
-# muito bom
+#corrigido
